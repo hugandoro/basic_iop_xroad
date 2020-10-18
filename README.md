@@ -1,0 +1,1 @@
+Este repositorio contiene el código fuente del componente de Tránsito y un docker-compose para levantar todo el ambiente del escenario básico de interoperabilidad (xroad_sc, transito_ss, tecnologia_ss, transito_si, transito_db) 
